@@ -1,4 +1,10 @@
-typemail
+TypeMail
 ========
 
-Typographic email client
+Typographic email client.
+
+Built with this ethos:
+
+* Terminal first
+* Offline second
+* Mobile third
